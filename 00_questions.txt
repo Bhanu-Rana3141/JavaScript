@@ -1,0 +1,2 @@
+differnece btw == and ===
+difference btw log and dir
